@@ -27,3 +27,25 @@
   height: 100%;
   width: 100%;
 }
+
+.field {
+  padding: 10px;
+  display: flex;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.form-wrapper {
+  max-width: 640px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.button {
+  padding: 20px;
+}
+
+.error-message {
+  color: red;
+}
